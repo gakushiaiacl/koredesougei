@@ -1,0 +1,17 @@
+[
+  {
+    "id": "c7a9612d-f7f0-47a7-880e-b1a4562aa335",
+    "name": "ハイエース",
+    "capacity": 3
+  },
+  {
+    "id": "c17af1cb-fae9-4ec6-a7b4-7649775ee2da",
+    "name": "キャラバン",
+    "capacity": 4
+  },
+  {
+    "id": "d7ae3077-c2f4-4886-8ed4-7b87662e0bf4",
+    "name": "エブリイ",
+    "capacity": 2
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "workdays": [
+    "月",
+    "火",
+    "水",
+    "木",
+    "金",
+    "土"
+  ],
+  "api_key": "YOUR_API_KEY_HERE",
+  "facility_address": "東京都豊島区東池袋1-1-1"
+} 

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "9c3c0e34-e26e-4ce1-a4ab-c2e272a0b6c8",
+    "name": "山田太郎",
+    "can_drive": true,
+    "workdays": [
+      "月",
+      "火",
+      "水",
+      "木",
+      "金"
+    ]
+  },
+  {
+    "id": "ad5fc985-066e-4e74-97ed-106590d4807a",
+    "name": "佐藤花子",
+    "can_drive": true,
+    "workdays": [
+      "月",
+      "水",
+      "金"
+    ]
+  },
+  {
+    "id": "7bcb570a-c3d4-4423-be32-9f328b62b6a0",
+    "name": "鈴木一郎",
+    "can_drive": true,
+    "workdays": [
+      "火",
+      "木",
+      "土"
+    ]
+  },
+  {
+    "id": "9daa9a4a-1579-4734-b66f-e8b2333ebd5f",
+    "name": "高橋次郎",
+    "can_drive": false,
+    "workdays": [
+      "月",
+      "火",
+      "水",
+      "木",
+      "金"
+    ]
+  },
+  {
+    "id": "60662232-c343-42ca-81ce-dc0baaabc7dd",
+    "name": "田中三郎",
+    "can_drive": false,
+    "workdays": [
+      "月",
+      "火",
+      "水",
+      "木",
+      "金",
+      "土"
+    ]
+  },
+  {
+    "id": "60e5a7d1-22b1-44c8-bcd5-6a68be0dcd1d",
+    "name": "田中一郎",
+    "can_drive": false,
+    "workdays": [
+      "月",
+      "火",
+      "水",
+      "木",
+      "金",
+      "土"
+    ]
+  }
+]

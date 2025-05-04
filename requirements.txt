@@ -1,0 +1,8 @@
+openpyxl>=3.0.0
+ortools>=9.0.0
+folium>=0.12.0
+tkinter
+requests
+googlemaps
+python-dotenv
+matplotlib 
